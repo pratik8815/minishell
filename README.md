@@ -141,4 +141,3 @@ fg
 
 Pratik Satsure
 
-Embedded Systems & Linux Enthusiast
